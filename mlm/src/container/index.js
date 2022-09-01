@@ -1,23 +1,23 @@
 import AboutUs from './AboutUs/AboutUs';
-import Chef from './Chef/Chef';
+import Soga from './Soga/Soga';
 import FindUs from './FindUs/FindUs.jsx';
 import Footer from './Footer/Footer';
-import Gallery from './Gallery/Gallery';
+import Embalajes from './Embalajes/Embalajes';
 import Header from './Header/Header';
 import Intro from './Intro/Intro';
-import Laurels from './Laurels/Laurels';
+import Grua from './Grua/Grua';
+import IntroG from './IntroG/IntroG';
 import Storage from './Storage/Storage';
-/* import SpecialMenu from './Menu/SpecialMenu'; */
 
 export {
   AboutUs,
-  Chef,
+  Soga,
   FindUs,
   Footer,
-  Gallery,
+  Embalajes,
+  Grua,
+  IntroG,
   Header,
   Intro,
-  Laurels,
   Storage,
-/*   SpecialMenu, */
 };

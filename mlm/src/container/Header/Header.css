@@ -18,6 +18,7 @@
 
 .app__wrapper_img img {
     border-radius: 10px;
+    height: 15rem;
 }
 
 @media screen and (min-width: 2000px) {

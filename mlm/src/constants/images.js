@@ -1,10 +1,13 @@
 import bg from '../assets/bg.png';
 import chef from '../assets/chef.png';
-import G from '../assets/G.png';
-import gallery01 from '../assets/gallery01.png';
-import gallery02 from '../assets/gallery02.png';
-import gallery03 from '../assets/gallery03.png';
-import gallery04 from '../assets/gallery04.png';
+import i1 from '../assets/i1.png';
+import i2 from '../assets/i2.png';
+import i3 from '../assets/i3.png';
+import i4 from '../assets/i4.png';
+import i5 from '../assets/i5.png';
+import i6 from '../assets/i6.png';
+import n1 from '../assets/n1.png';
+import n2 from '../assets/n2.png';
 import knife from '../assets/knife.png';
 import logo from '../assets/logo.png';
 import menu from '../assets/menu.png';
@@ -30,6 +33,7 @@ import conts from '../assets/conts.png';
 import hab1 from '../assets/hab1.png';
 import habc from '../assets/habc.png';
 import habi from '../assets/habi.png';
+import grua from '../assets/grua.png';
 
 export default {
   bg,
@@ -40,15 +44,19 @@ export default {
   contc,
   contf,
   conti,
+  i1,
+  i2,
+  i3,
+  i4,
+  i5,
+  i6,
+  n1,
+  n2,
   conts,
   hab1,
   habc,
   habi,
-  G,
-  gallery01,
-  gallery02,
-  gallery03,
-  gallery04,
+  grua,
   knife,
   logo,
   menu,
