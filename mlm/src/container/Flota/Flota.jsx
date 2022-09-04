@@ -3,9 +3,9 @@ import { BsArrowLeftShort, BsArrowRightShort } from 'react-icons/bs';
 
 import { SubHeading } from '../../components';
 import { images } from '../../constants';
-import './Storage.css';
+import './Flota.css';
 
-const Storage = () => {
+const Flota = () => {
   const scrollRef = React.useRef(null);
 
   const scroll = (direction) => {
@@ -19,15 +19,15 @@ const Storage = () => {
   };
 
   return (
-    <div className="app__gallery flex__center" id="storage">
+    <div className="app__gallery flex__center">
       <div className="app__gallery-content">
-        <SubHeading title="Storage" />
-        <h1 className="headtext__cormorant">Servicios De Almacenaje</h1>
-        <p className="p__opensans" style={{ color: '#AAAAAA', marginTop: '2rem' }}>Contamos con distintos tipos de depósitos, para amoldarnos a sus necesidades </p>
+        <SubHeading title="Flota" />
+        <h1 className="headtext__cormorant">Nuestra Flota</h1>
+        <p className="p__opensans" style={{ color: '#AAAAAA', marginTop: '2rem' }}>Contamos con distintos tipos de vehiculos para amoldarnos a sus necesidades.</p>
       </div>
       <div className="app__gallery-images">
         <div className="app__gallery-images_container" ref={scrollRef}>
-          {[images.conts, images.contf, images.conti, images.contc, images.conta, images.caj, images.caja, images.hab1, images.habi, images.habc].map((image, index) => (
+          {[images.f1, images.f2, images.f3, images.f4, images.f5, images.f6, images.f7, images.f8, images.f9].map((image, index) => (
             <div className="app__gallery-images_card flex__center" key={`gallery_image-${index + 1}`}>
               <img src={image} alt="gallery_image" />
             </div>
@@ -42,4 +42,4 @@ const Storage = () => {
   );
 };
 
-export default Storage;
+export default Flota;

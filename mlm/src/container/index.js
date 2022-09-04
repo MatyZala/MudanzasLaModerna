@@ -8,12 +8,14 @@ import Intro from './Intro/Intro';
 import Grua from './Grua/Grua';
 import IntroG from './IntroG/IntroG';
 import Storage from './Storage/Storage';
+import Flota from './Flota/Flota';
 
 export {
   AboutUs,
   Soga,
   FindUs,
   Footer,
+  Flota,
   Embalajes,
   Grua,
   IntroG,

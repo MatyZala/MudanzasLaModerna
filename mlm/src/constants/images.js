@@ -8,6 +8,15 @@ import i5 from '../assets/i5.png';
 import i6 from '../assets/i6.png';
 import n1 from '../assets/n1.png';
 import n2 from '../assets/n2.png';
+import f1 from '../assets/f1.png';
+import f2 from '../assets/f2.png';
+import f3 from '../assets/f3.png';
+import f4 from '../assets/f4.png';
+import f5 from '../assets/f5.png';
+import f6 from '../assets/f6.png';
+import f7 from '../assets/f7.png';
+import f8 from '../assets/f8.png';
+import f9 from '../assets/f9.png';
 import knife from '../assets/knife.png';
 import logo from '../assets/logo.png';
 import menu from '../assets/menu.png';
@@ -44,6 +53,15 @@ export default {
   contc,
   contf,
   conti,
+  f1,
+  f2,
+  f3,
+  f4,
+  f5,
+  f6,
+  f7,
+  f8,
+  f9,
   i1,
   i2,
   i3,
