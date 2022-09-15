@@ -2,9 +2,9 @@ Moving company project
 
 Project Objectives
 
-Build an App using React, Redux and Node.
-Learn best practices.
-Learn and practice the GIT workflow.
+○ Build an App using React, Redux and Node.
+○ Learn best practices.
+○ Learn and practice the GIT workflow.
 
 NavBar:
 
