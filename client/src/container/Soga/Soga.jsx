@@ -7,7 +7,7 @@ import './Soga.css';
 const Soga = () => (
   <div className="app__bg app__wrapper section__padding" id="works">
     <div className="app__wrapper_img app__wrapper_img-reverse">
-      <img src={images.chef} alt="chef_image" />
+      <img src={images.chef} alt="Soga" />
     </div>
     <div className="app__wrapper_info">
       <SubHeading title="Servicios En Altura" />
