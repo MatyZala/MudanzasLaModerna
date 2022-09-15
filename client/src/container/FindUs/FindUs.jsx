@@ -27,7 +27,7 @@ const FindUs = () => {
   const handleSubmit = async (e) => {
     e.preventDefault();
     setButtonText('Enviando...');
-    const response = await axios.post('http://localhost:3001/contacto', formDetails);
+    const response = await axios.post('/contacto', formDetails);
     setButtonText('Enviar');
     const result = await response.data;
     setFormDetails(formInitialDetails);
