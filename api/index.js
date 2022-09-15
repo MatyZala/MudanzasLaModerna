@@ -3,17 +3,14 @@ const express = require("express");
 const router = express.Router();
 const cors = require("cors");
 const nodemailer = require("nodemailer");
-/* const {
-  EMAIL_USER, EMAIL_PASS, PORT
-} = process.env; */
-
+const port = process.env.PORT || 3001
 
 // server used to send send emails
 const app = express();
 app.use(cors());
 app.use(express.json());
 app.use("/", router);
-app.listen(process.env.PORT, () => console.log("Server Running"));
+app.listen(port, () => console.log("Server Running"));
 
 
 const contactEmail = nodemailer.createTransport({
