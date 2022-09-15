@@ -9,7 +9,7 @@ const AboutUs = () => (
     <div className="app__aboutus-content flex__center">
       <div className="app__aboutus-content_about">
         <h1 className="headtext__cormorant">Sobre Nosotros</h1>
-        <p className="p__opensans">con mas de 100 años en el rubro siendo una de las empresas pioneras en el rubro en el Gran Córdoba. Mudanzas La Moderna es una empresa seria con la flota de vehículos y personal listos para amoldarse a sus necesidades.</p>
+        <p className="p__opensans">con mas de 100 años en el rubro siendo una de las empresas pioneras en mudanzas y almacenamiento en el Gran Córdoba. Mudanzas La Moderna es una empresa seria con la flota de vehículos y personal listos para amoldarse a sus necesidades.</p>
       </div>
 
       <div className="app__aboutus-content_knife flex__center">
@@ -18,7 +18,7 @@ const AboutUs = () => (
 
       <div className="app__aboutus-content_history">
         <h1 className="headtext__cormorant">Nuestra Historia</h1>
-        <p className="p__opensans">Empresa fundada en 1910, en la ciudad de Córdoba Cápital. Nos definde nuestra responsabilidad e integridad como empresa. Contamos con todos los servicios para el traslado seguro de sus bienes.</p>
+        <p className="p__opensans">Empresa fundada en 1914, en la ciudad de Córdoba Cápital. Nos definde nuestra responsabilidad e integridad como empresa. Contamos con todos los servicios para el traslado seguro de sus bienes.</p>
       </div>
     </div>
   </div>

@@ -61,6 +61,13 @@
     background-color: rgba(230, 230, 230, 0.6);
 }
 
+p.success {
+    color: green;
+}
+
+p.danger {
+    color: red;
+}
 @media screen and (max-width:880px){
     .contact-box{
         grid-template-columns: 1fr;
