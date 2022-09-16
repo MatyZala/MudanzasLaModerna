@@ -15,7 +15,7 @@ const IntroG = () => {
         src={gruav}
         type="video/mp4"
         loop
-        preload
+        preload="true"
         controls={false}
         muted
       />
