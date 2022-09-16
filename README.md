@@ -8,6 +8,7 @@ Project Objectives
 
 ° Learn and practice the GIT workflow.
 
+° Mean in cloudinary
 
 NavBar:
 
