@@ -10,7 +10,7 @@ const Footer = () => (
     <div className="app__footer-links">
       <div className="app__footer-links_contact">
         <h1 className="app__footer-headtext">Contacto</h1>
-        <p className="p__opensans">Av. Capdevila 900 | Córdoba - Argentina.</p>
+        <p className="p__opensans">Av. Capdevila 1549 | Córdoba - Argentina.</p>
         <p className="p__opensans"> 473-1320</p>
         <p className="p__opensans">+54 9 351-530-8384</p>
         <p className="p__opensans">+54 9 351-226-3327</p>

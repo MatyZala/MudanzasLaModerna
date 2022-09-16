@@ -1,5 +1,6 @@
 import images from './images';
-import meal from '../assets/meal.mp4';
-import gruav from '../assets/gruav.mp4';
+
+const meal = 'https://res.cloudinary.com/dwuycckui/video/upload/v1663337742/Mudanzas%20la%20moderna/meal_bxrnf3.mp4';
+const gruav = 'https://res.cloudinary.com/dwuycckui/video/upload/v1663337743/Mudanzas%20la%20moderna/gruav_bmqfda.mp4';
 
 export { images, meal, gruav };
