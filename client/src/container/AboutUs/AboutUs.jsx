@@ -18,7 +18,7 @@ const AboutUs = () => (
 
       <div className="app__aboutus-content_history">
         <h1 className="headtext__cormorant">Nuestra Historia</h1>
-        <p className="p__opensans">Empresa fundada en 1914, en la ciudad de Córdoba Cápital. Nos definde nuestra responsabilidad e integridad como empresa. Contamos con todos los servicios para el traslado seguro de sus bienes.</p>
+        <p className="p__opensans">Empresa fundada en 1914, en la ciudad de Córdoba Cápital. Nos define nuestra responsabilidad e integridad como empresa. Contamos con todos los servicios para el traslado seguro de sus bienes.</p>
       </div>
     </div>
   </div>
