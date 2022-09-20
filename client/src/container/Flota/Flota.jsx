@@ -27,7 +27,7 @@ const Flota = () => {
       </div>
       <div className="app__gallery-images">
         <div className="app__gallery-images_container" ref={scrollRef}>
-          {[images.f1, images.f2, images.f3, images.f4, images.f5, images.f6, images.f7, images.f8, images.f9].map((image, index) => (
+          {[images.f1, images.f2, images.f8, images.f5, images.f6, images.f7, images.f4].map((image, index) => (
             <div className="app__gallery-images_card flex__center" key={`gallery_image-${index + 1}`}>
               <img src={image} alt="gallery_image" />
             </div>

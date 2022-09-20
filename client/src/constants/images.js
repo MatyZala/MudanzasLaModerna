@@ -10,13 +10,11 @@ const n1 = 'https://res.cloudinary.com/dwuycckui/image/upload/v1663337703/Mudanz
 const n2 = 'https://res.cloudinary.com/dwuycckui/image/upload/v1663337705/Mudanzas%20la%20moderna/n2_pbggsl.png';
 const f1 = 'https://res.cloudinary.com/dwuycckui/image/upload/v1663337693/Mudanzas%20la%20moderna/f1_niktir.png';
 const f2 = 'https://res.cloudinary.com/dwuycckui/image/upload/v1663337685/Mudanzas%20la%20moderna/f2_hb9xjo.png';
-const f3 = 'https://res.cloudinary.com/dwuycckui/image/upload/v1663337687/Mudanzas%20la%20moderna/f3_qlaaaa.png';
 const f4 = 'https://res.cloudinary.com/dwuycckui/image/upload/v1663337687/Mudanzas%20la%20moderna/f4_j8bior.png';
-const f5 = 'https://res.cloudinary.com/dwuycckui/image/upload/v1663337694/Mudanzas%20la%20moderna/f5_aw0esf.png';
+const f5 = 'https://res.cloudinary.com/dwuycckui/image/upload/v1663337682/Mudanzas%20la%20moderna/contact_qxyfde.jpg';
 const f6 = 'https://res.cloudinary.com/dwuycckui/image/upload/v1663337689/Mudanzas%20la%20moderna/f6_zz2net.png';
 const f7 = 'https://res.cloudinary.com/dwuycckui/image/upload/v1663337688/Mudanzas%20la%20moderna/f7_b5o6jx.png';
-const f8 = 'https://res.cloudinary.com/dwuycckui/image/upload/v1663337689/Mudanzas%20la%20moderna/f8_jop3wh.png';
-const f9 = 'https://res.cloudinary.com/dwuycckui/image/upload/v1663337689/Mudanzas%20la%20moderna/f9_tho8lc.png';
+const f8 = 'https://res.cloudinary.com/dwuycckui/image/upload/c_scale,h_433,w_260/v1663337689/Mudanzas%20la%20moderna/f8_jop3wh.png';
 const knife = 'https://res.cloudinary.com/dwuycckui/image/upload/v1663337702/Mudanzas%20la%20moderna/knife_cjbreh.png';
 const menu = 'https://res.cloudinary.com/dwuycckui/image/upload/v1663337708/Mudanzas%20la%20moderna/menu_gesvpx.png';
 const overlaybg = 'https://res.cloudinary.com/dwuycckui/image/upload/v1663337705/Mudanzas%20la%20moderna/overlaybg_bc5knn.png';
@@ -46,13 +44,11 @@ export default {
   conti,
   f1,
   f2,
-  f3,
   f4,
   f5,
   f6,
   f7,
   f8,
-  f9,
   i1,
   i2,
   i3,
