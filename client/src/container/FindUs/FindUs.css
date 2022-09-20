@@ -39,6 +39,10 @@
     border: 2px solid rgba(238, 241, 11, 0.47);
 }
 
+.field::placeholder{
+    color: rgba(238, 241, 11, 0.47);
+}
+
 .area{
     min-height: 150px;
     max-height: 200px;
